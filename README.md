@@ -1,4 +1,4 @@
-# Gesture Detection Project
+<h1 align='center'>Gesture Detection Project</h1>
 
 ## Table of Contents
 
